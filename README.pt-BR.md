@@ -4,6 +4,8 @@ Uma tela inicial personalizada para Android TV, escrita como **referência para 
 
 [English](README.md)
 
+<img src="docs/home-screen.png" alt="A tela inicial: relógio, clima e blocos de apps" width="100%">
+
 ## O que é
 
 Uma tela só, em Java puro, sem Gradle e sem bibliotecas (cerca de 84 KB):

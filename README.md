@@ -4,6 +4,8 @@ A custom Android TV home screen, written as a **reference for your coding agent*
 
 [Português](README.pt-BR.md)
 
+<img src="docs/home-screen.png" alt="The home screen: clock, weather and app tiles" width="100%">
+
 ## What it is
 
 One screen, plain Java, no Gradle and no libraries (about 84 KB):
