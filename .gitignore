@@ -1,0 +1,7 @@
+out/
+*.jks
+*.b64
+*.apk
+apps.local.txt
+.DS_Store
+.idea
